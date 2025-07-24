@@ -3,6 +3,6 @@
 # Subclasses must implement the calculate_isr method
 class AdjustmentStrategy
   def calculate_isr(employee)
-    raise NotImplementedError, "#{self.class} debe implementar #calculate_isr"
+    raise NotImplementedError, "#{self.class} must implement #calculate_isr"
   end
 end
