@@ -92,8 +92,8 @@ Results display ISR amounts per week with proper adjustment applied
 │   ├── services/                           # Tests for ISR tables and calculation logic
 │   │   └── isr_table_test.rb               # Tests for ISRTable class
 │   └── test_helper.rb                      # Minitest setup
-├── README.md                               # Project documentation
 ├── Rakefile                                # Rake tasks for executing, testing and packaging
+├── README.md                               # Project documentation
 ```
 
 ## Main Classes
