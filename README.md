@@ -64,6 +64,7 @@ Results display ISR amounts per week with proper adjustment applied
 
 ## Project Structure
 
+```plaintext
 .
 ├── bin/                                    # CLI entry point scripts
 │   ├── isr_calculator.rb                   # Main CLI script
@@ -93,6 +94,7 @@ Results display ISR amounts per week with proper adjustment applied
 │   └── test_helper.rb                      # Minitest setup
 ├── README.md                               # Project documentation
 ├── Rakefile                                # Rake tasks for executing, testing and packaging
+```
 
 ## Main Classes
 
